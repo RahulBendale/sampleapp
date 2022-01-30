@@ -1,5 +1,3 @@
-CREATE DATABASE crudapi;
-
 USE crudapi;
 
 CREATE TABLE tbl_employee
